@@ -23,6 +23,10 @@ public class tdygit {
 				
 				
 		}			
-				
+	private void testC4() {
+		System.out.println("TestC3");	
+		System.out.println(Thread.currentThread().getId());
+					
+}
 }
 }
